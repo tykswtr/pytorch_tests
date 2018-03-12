@@ -18,3 +18,5 @@ print("hello world")
 from hello_world import p_sum
 
 print(p_sum(1, 2))
+
+print(p_sum(1, 3))
